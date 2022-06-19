@@ -1,6 +1,6 @@
-# Vue 3 + TypeScript + Vite
+# A Todo list application.
 
-A Todo list application.
+Vue 3 + TypeScript + Vite
 
 Ref:
 
