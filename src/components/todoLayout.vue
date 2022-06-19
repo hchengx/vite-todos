@@ -4,14 +4,14 @@
             <todoMenu></todoMenu>
         </section>
         <section class="content-container">
-        <TodoItem></TodoItem>
+        <todoContent></todoContent>
         </section>
     </section>
 </template>
 
 <script setup lang="ts">
 import todoMenu from './todoMenu.vue';
-import TodoItem from './todoItem.vue';
+import todoContent from './todoContent.vue';
 </script>
 
 <style lang="less">
